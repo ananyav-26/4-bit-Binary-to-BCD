@@ -15,5 +15,5 @@ Binary-Coded Decimal (BCD) is a digital encoding method for decimal numbers in w
 
 ## Simulation
 A VHDL testbench can be used to simulate various binary inputs and observe the corresponding BCD outputs. The design can also be integrated with display modules for FPGA implementations.
-- RTL Schematic:
-- Output Waveform: 
+- RTL Schematic: https://github.com/ananyav-26/4-bit-Binary-to-BCD/blob/main/images/binary4bcd_rtl.png
+- Output Waveform: https://github.com/ananyav-26/4-bit-Binary-to-BCD/blob/main/images/binary4bcd_waveform.png
